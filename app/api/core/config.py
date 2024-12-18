@@ -1,0 +1,2 @@
+
+AUTH_METHOD = 'API_KEY'
